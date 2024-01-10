@@ -1,0 +1,38 @@
+h1{
+    color: red;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.container{
+    margin-top: 4rem;
+   margin-left: 35rem;
+   height: 1120px;
+   width: 700px;
+   border-radius: 10px;
+ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+ .el-form-item {
+padding-top: 20px;
+    font-size: 18px;
+    margin-left: 4rem;
+ }
+
+ .el-input{
+    height: 40px;
+    width: 420px;
+ }
+
+ .el-button{
+    background-color: #007bff;
+         color: #fff;
+         padding: 10px 20px;
+         border: none;
+         cursor: pointer;
+         font-size: 16px;
+         border-radius: 4px;
+         margin-left: 22rem;
+         margin-top: 2rem;
+      }
+ }
